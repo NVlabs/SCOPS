@@ -1,0 +1,3 @@
+[submodule "tps_stn_pytorch"]
+	path = tps_stn_pytorch
+	url = https://github.com/WarBean/tps_stn_pytorch.git

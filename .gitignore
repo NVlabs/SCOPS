@@ -1,0 +1,27 @@
+# models
+model/*.pth
+
+# pyc
+*.pyc
+deeplab/*.pyc
+
+tb_logs*
+snapshots/
+snapshot*
+result*
+*.swp
+*.log
+
+scops_env*
+
+# for testing
+exps_cvpr*
+
+# dataset
+data/*
+
+#mac
+*.DS_Store
+
+#misc
+misc_nonsync
