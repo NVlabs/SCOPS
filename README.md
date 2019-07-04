@@ -3,7 +3,7 @@
 
 PyTorch implementation for self-supervised co-part segmentation.
 
-![] (https://varunjampani.github.io/images/projectpic/scops_results.png)
+![](https://varunjampani.github.io/images/projectpic/scops_results.png)
 
 ## License
 
