@@ -38,7 +38,7 @@ six==1.12.0
 spacepy==0.1.6
 tensorboard==1.12.2
 tensorboardX==1.6
-tensorflow==1.12.0
+tensorflow==1.12.2
 termcolor==1.1.0
 toolz==0.9.0
 torch==0.4.0
