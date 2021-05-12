@@ -7,7 +7,7 @@ import torch
 import torch.nn as nn
 import itertools
 
-from tps_stn_pytorch.tps_grid_gen import TPSGridGen
+from tps.tps_grid_gen import TPSGridGen
 from tps.grid_sample import grid_sample
 from torch.autograd import Variable
 
